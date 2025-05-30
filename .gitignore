@@ -1,0 +1,14 @@
+# Node.js
+/frontend/node_modules/
+/frontend/build/
+
+# PHP
+/backend/vendor/
+/backend/composer.lock
+
+# Docker
+*.log
+.env
+
+# Misc
+.DS_Store
